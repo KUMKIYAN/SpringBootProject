@@ -149,8 +149,8 @@ application.properties
    spring.application.name = demoservice
 
 inorder to run on port given in application.properties use the below command.
-	java -jar -Dspring.config.location=/Users/nisum/Downloads/demo2/src/main/resources/application.properties demo-0.0.1-SNAPSHOT.jar
+	java -jar -Dspring.config.location=/Users/kikumar/Downloads/demo2/src/main/resources/application.properties demo-0.0.1-SNAPSHOT.jar
 
 
 inorder to log add "debug = true" in application.properties
-inorder to add log into a file add "/Users/nisum/Downloads/demo2/mylog.log"
+inorder to add log into a file add "/Users/kikumar/Downloads/demo2/mylog.log"
